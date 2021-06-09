@@ -6,8 +6,10 @@ The idea is simple, and probably I am not the firstone to speak about it: Just s
 
 This project aims to solve the following problems related to account creating and the identification/authentification process:
 
-- It's boring to have to create a new account on every website;
+- It is boring to have to create a new account on every website;
+- It is messy to have so many accounts and it is dificult to mange all them and passwords from time to time than, as a consequence users often have the same password for many websystem besides not renewing them;
 - It would be nice (safer and less boring) not have to depend on email/sms for recovering access to my account on any website. Having in mind that those two (email and sms ) will be handled by other people or institutions. Even if you have your own private mail server, still it would be nice not to depend on it for identification/authentication on third parties websites;
 - By entering the password/username in the websites every time you login you are doing a lot of exposure, therefore it would be safer not to have to insert it at all;
+- It would nice to be more indendent, meaning, not to depend on third parties for my securi
 
 The concept of "2fa" or "Two Factor Autentication" has become common (and really useful) and most of the web systems that require greater security will relay on it to add extra security to the authentication process. Given this fact, I am assuming that most of people are used to the idea of using the smartphone as a means for security.  Following this line but changing slightly the paradigma we can than provide an authentication mehtod based on asymetric cryptography that allows for an authentication process that is safer, quiquer, easier and totally independent of any third parties, or emails, sms. The only tool necessary is the phone and the internet.
