@@ -1,5 +1,5 @@
 # zeroid
-Lets make it easy for any website/app to authenticate users by asymmetric cryptography therefore, without having the need to identify the actual person.
+Lets make it easy for any website/app to authenticate users by asymmetric cryptography therefore, without having the need to identify the actual person nor having to write username and password.
 
 
 The idea is simple, and probably I am not the firstone to speak about it: Just scan a QRCode and you are logged in, even on new websites where you do not have account yet!
